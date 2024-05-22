@@ -186,8 +186,6 @@ jobs:
           mv /tmp/.buildx-cache-centos7-new /tmp/.buildx-cache-centos7-ausol
 
 
-
-
   build-centos-mpi:
 
     runs-on: ubuntu-latest
